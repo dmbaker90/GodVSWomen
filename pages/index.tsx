@@ -2,6 +2,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
 import Counts from "./counts";
+import FAQ from "./faq";
 import Footer from "./footer";
 import TestPage from "./test";
 
@@ -13,9 +14,9 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      {/* <TestPage/> */}
-
       <Counts />
+
+      <FAQ />
 
       <Footer />
     </div>
