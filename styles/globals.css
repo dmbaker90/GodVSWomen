@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .faq-question {
+    @apply text-2xl font-bold my-3;
+  }
+
+  .faq-answer {
+    @apply text-lg;
+  }
+
+  a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600;
+  }
+}
