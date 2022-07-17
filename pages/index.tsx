@@ -18,7 +18,7 @@ const Home: NextPage = () => {
 
       <FAQ />
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
