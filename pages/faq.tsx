@@ -11,7 +11,7 @@ const FAQ: NextPage = () => {
           <h4 className="faq-question">Why did you make this?</h4>
           <p className="faq-answer">
             The purpose of this site is to serve as a response to the
-            disingenuous pro-life premise that abortion is murder. If
+            disingenuous, religious pro-life premise that abortion is murder. If
             terminating a bundle of cells after conception is murder, then it is
             important to hold the biggest murderer of all accountable, God. With
             well over a million miscarriages a year in the US, God easily kills
@@ -76,8 +76,9 @@ const FAQ: NextPage = () => {
               80% of miscarriages occurring in the first 12 weeks.
             </a>{" "}
             The point here is...many factors affect a pregnancy. Many factors
-            affect peoples circumstances to become parents. The pro-life premise
-            sees the world as black and white
+            affect people's life circumstances. Forcing unfounded religious
+            dogma on others has more in common with the Taliban than it does
+            with a free country.
           </p>
         </div>
         <div>
