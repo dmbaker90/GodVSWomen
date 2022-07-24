@@ -75,10 +75,21 @@ const FAQ: NextPage = () => {
             >
               80% of miscarriages occurring in the first 12 weeks.
             </a>{" "}
-            The point here is...many factors affect a pregnancy. Many factors
-            affect people's life circumstances. Forcing unfounded religious
-            dogma on others has more in common with the Taliban than it does
-            with a free country.
+            Abortion procedures and medications are{" "}
+            <a
+              href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403257/"
+              target="_blank"
+            >
+              nearly identical
+            </a>{" "}
+            to those of miscarriages, and new abortion laws{" "}
+            <a
+              href="https://www.nytimes.com/2022/07/17/health/abortion-miscarriage-treatment.html"
+              target="_blank"
+            >
+              strongly affect
+            </a>{" "}
+            miscarriage treatment.
           </p>
         </div>
         <div>
@@ -89,15 +100,23 @@ const FAQ: NextPage = () => {
             Yes, I do. And from that it follows that the death penalty should be
             abolished, and guns should be very heavily regulated or banned. The
             problem comes from the decision that life begins at conception,
-            which has no scientific consensus or even religious consensus. It is
-            purely an ideological belief by a minority few that is not based on
-            reason. A bundle of cells with DNA instructions to assemble a human
-            is no more a human than an instruction manual and a pile of sheet
-            metal is a car. It's clear that on the assembly line, at some point
-            the materials become a car. It's also clear that it's not at
-            conception, and the effects of inflicting that belief upon others
-            have profoundly negative consequences for women and for bodily
-            autonomy.
+            which has no scientific consensus or even religious consensus.
+            Pastor John A. Nelson calls the decision{" "}
+            <a
+              href="https://www.berkshireeagle.com/opinion/columnists/john-a-nelson-a-pastors-perspective-on-roes-repeal/article_94fc2980-0440-11ed-b6db-c7482aa7f417.html"
+              target="_blank"
+            >
+              immoral
+            </a>{" "}
+            and that the "concern for the lives of fetuses" is a "denial of
+            fullness of life for women in our country". It is purely an
+            ideological belief by a minority few. A bundle of cells with DNA
+            instructions to assemble a human is no more a human than an
+            instruction manual and a pile of sheet metal is a car. It's clear
+            that on the assembly line, at some point the materials become a car.
+            It's also clear that it's not at conception, and the effects of
+            inflicting that belief upon others have profoundly negative
+            consequences for women and for bodily autonomy.
           </p>
         </div>
         <div>
